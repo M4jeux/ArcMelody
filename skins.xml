@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<SkinCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Skins>
+    <Skin>
+      <skinName>Summer</skinName>
+      <sound>Bagpipe</sound>
+      <particle>Particle1</particle>
+      <tempo>20</tempo>
+      <soundLoop>40 bpm</soundLoop>
+      <official>true</official>
+    </Skin>
+    <Skin>
+      <skinName>Winter</skinName>
+      <sound>Piano</sound>
+      <particle>Particle2</particle>
+      <tempo>60</tempo>
+      <soundLoop>60 bpm</soundLoop>
+      <official>true</official>
+    </Skin>
+    <Skin>
+      <skinName>Spring</skinName>
+      <sound>Accordion</sound>
+      <particle>Particle1</particle>
+      <tempo>100</tempo>
+      <soundLoop>80 bpm</soundLoop>
+      <official>true</official>
+    </Skin>
+    <Skin>
+      <skinName>Fall</skinName>
+      <sound>Bass</sound>
+      <particle>Particle2</particle>
+      <tempo>120</tempo>
+      <soundLoop>120 bpm</soundLoop>
+      <official>true</official>
+    </Skin>
+    <Skin>
+      <skinName>test</skinName>
+      <sound>Bell</sound>
+      <particle>Particle2</particle>
+      <tempo>140</tempo>
+      <soundLoop>70 bpm</soundLoop>
+      <official>false</official>
+    </Skin>
+    <Skin>
+      <skinName>test2</skinName>
+      <sound>Bell</sound>
+      <particle>Particle2</particle>
+      <tempo>70</tempo>
+      <soundLoop>70 bpm</soundLoop>
+      <official>false</official>
+    </Skin>
+  </Skins>
+</SkinCollection>
